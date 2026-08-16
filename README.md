@@ -159,8 +159,8 @@ I focus on building systems where AI can **understand information, make decision
 
 ## Let's Connect
 
-**LinkedIn:** [Md. Anik](YOUR_LINKEDIN_URL)
+**LinkedIn:** [Md. Anik](https://www.linkedin.com/in/md-anik-khan-7b3a2a3a1/)
 
-**Portfolio:** [My Portfolio](YOUR_PORTFOLIO_URL)
+**Portfolio:** [My Portfolio](https://throbbing-butterfly-0377.mdanikk630.workers.dev/)
 
 **Email:** [mdanikk630@gmail.com](mailto:mdanikk630@gmail.com)
