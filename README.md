@@ -8,7 +8,7 @@ My focus is on turning repetitive and complex business processes into **scalable
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 * 🤖 AI Agents & Agentic Workflows
 * ⚙️ AI Workflow Automation
@@ -23,7 +23,7 @@ My focus is on turning repetitive and complex business processes into **scalable
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI & LLM
 
@@ -57,9 +57,9 @@ My focus is on turning repetitive and complex business processes into **scalable
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🤖 AI Receptionist & Voice Agent
+### AI Receptionist & Voice Agent
 
 AI-powered receptionist built to handle conversations and automate customer interactions.
 
@@ -75,7 +75,7 @@ AI-powered receptionist built to handle conversations and automate customer inte
 
 ---
 
-### 🧠 AI Customer Support Agent with RAG
+### AI Customer Support Agent with RAG
 
 AI-powered customer support system using Retrieval-Augmented Generation to provide context-aware responses from a knowledge base.
 
@@ -91,7 +91,7 @@ AI-powered customer support system using Retrieval-Augmented Generation to provi
 
 ---
 
-### 📱 AI Social Media & Messenger Automation
+### AI Social Media & Messenger Automation
 
 Automated social media workflows for processing customer interactions and generating AI-powered responses.
 
@@ -107,7 +107,7 @@ Automated social media workflows for processing customer interactions and genera
 
 ---
 
-### 📊 AI-Powered CRM Data Cleaning
+### AI-Powered CRM Data Cleaning
 
 Automated lead-data processing and normalization system.
 
@@ -124,7 +124,7 @@ Automated lead-data processing and normalization system.
 
 ---
 
-## 🧩 AI Automation Expertise
+## AI Automation Expertise
 
 ```text
 AI Agents
@@ -144,7 +144,7 @@ I focus on building systems where AI can **understand information, make decision
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 * Agentic AI
 * AI Workflow Automation
@@ -157,7 +157,7 @@ I focus on building systems where AI can **understand information, make decision
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 **LinkedIn:** [Md. Anik](YOUR_LINKEDIN_URL)
 
